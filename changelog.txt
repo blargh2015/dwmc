@@ -1,7 +1,0 @@
----
-Version: 0.0.1
-Date: 01. 08. 2026
-  Changes:
-    - Initial release
-    - Arrow pointing to last vehicle
-    - Distance-based car horn alert
