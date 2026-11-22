@@ -1,0 +1,20 @@
+---
+Version: 0.0.2
+Date: 22. 11. 2026
+  Changes:
+    - Update compatibility metadata for Factorio 2.1
+    - Remove invalid storage writes from on_load
+    - Use custom alert filters instead of treating alerts as IDs
+    - Run distance checks every 30 ticks with on_nth_tick
+    - Correct README settings and arrow behavior
+    - Use Factorio 2.1 entity pins for on-screen markers and off-screen directional arrows
+    - Show the pin only beyond the configurable alert distance
+    - Remove old test-build GUI arrows and custom alerts
+
+---
+Version: 0.0.1
+Date: 01. 08. 2026
+  Changes:
+    - Initial release
+    - Arrow pointing to last vehicle
+    - Distance-based car horn alert
